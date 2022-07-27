@@ -1,0 +1,58 @@
+[
+  {
+    "transactionId": "A10",
+    "product": "X5",
+    "customerId": 1,
+    "customerName": "C1",
+    "totalPurchaseAmount": 133
+  },
+  {
+    "transactionId": "A11",
+    "product": "X1",
+    "customerId": 1,
+    "customerName": "C1",
+    "totalPurchaseAmount": 125
+  },
+  {
+    "transactionId": "A12",
+    "product": "X2",
+    "customerId": 1,
+    "customerName": "C1",
+    "totalPurchaseAmount": 150
+  },
+  {
+    "transactionId": "A13",
+    "product": "X3",
+    "customerId": 1,
+    "customerName": "C1",
+    "totalPurchaseAmount": 44
+  },
+  {
+    "transactionId": "A14",
+    "product": "X1",
+    "customerId": 2,
+    "customerName": "C2",
+    "totalPurchaseAmount": 125
+  },
+  {
+    "transactionId": "A15",
+    "product": "X2",
+    "customerId": 2,
+    "customerName": "C2",
+    "totalPurchaseAmount": 150
+  },
+  {
+    "transactionId": "A16",
+    "product": "X2",
+    "customerId": 3,
+    "customerName": "C3",
+    "totalPurchaseAmount": 150
+  },
+  {
+    "transactionId": "A17",
+    "product": "X12",
+    "customerId": 3,
+    "customerName": "C3",
+    "totalPurchaseAmount": 51
+  }
+]
